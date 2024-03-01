@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title> Portifólio </title>
+    </head>
+    <body>
+        <h1 style="text-align:center;">Portifólio</h1>
+
+        <img width="200" style="display: block; margin: 0 auto;" src="https://media.discordapp.net/attachments/852133073130225674/1210550816562352188/me.jpg?ex=65eaf84d&is=65d8834d&hm=e6a0309a226be1f3f5b14f1eab3a6253229dad8385979d4c734f5e7a0706af70&" alt="">
+        <h2 style="text-align:center;">Sobre mim:</h2>
+        <h4 style="text-align:center;">Me chamo Henrique, tenho 19 anos e atualmente estou cursando o primeiro período de ciência da computação pela Universidade de Vila Velha e, através deste portifólio, irei postar todo meu avanço relacionado a matéria e projetos.  </h4> 
+            <h2 style="text-align:center;">Informações de Contato</h2>
+            <ul style="list-style-type:none; text-align:center;">
+                <li style="margin-bottom:10px;">Nome completo: Henrique de Souza Pessotti Rangel</li>
+                <li style="margin-bottom:10px;">Telefone: 27993169970</li>
+                <li style="margin-bottom:10px;">E-mail: <a href="mailto:hnryspr@gmail.com" style="color:blue;">hnryspr@gmail.com</a></li>
+                <li style="margin-bottom:10px;">Idade: 19</li>
+                
+            </ul>
+
+            <h2 style="text-align:center;"> <a href="Contatos.html" style="color:blue;">Contatos</a> </h2>
+<h2 style="text-align:center;">Experiência Profissional</h2>
+<ul style="list-style-type:none; text-align:center;">
+    <li style="margin-bottom:10px;">Assistência em consultoria para descarbonização e Créditos de Carbono </li>
+    
+</ul>
+     <h2 style="text-align:center;">Educação:</h2>
+    <ul style="list-style-type:none; text-align:center;">
+        <li style="margin-bottom:10px;"> Formado em Ensino Médio pelo Colégio UP em 2023 </li>
+        <li style="margin-bottom:10px;"> Curso de Inglês completo pela Escola de Línguas CNA em 2019 </li>
+    </ul>
+    
+<h2 style="text-align:center;">Habilidades:</h2>
+<ul style="list-style-type:none; text-align:center;">
+    <li style="margin-bottom:10px;">Possuo facilidade para me relacionar</li>
+    <li style="margin-bottom:10px;">Entendo com facilidade</li>
+<li style="margin-bottom:10px;"> Sou produtivo</li>
+<li style="margin-bottom:10px;"> Sou muito criativo</li>
+</ul>
+<h2 style="text-align:center;">Idiomas:</h2>
+<ul style="list-style-type```php
+    <li style="margin-bottom:10px;">Fluência em Inglês</li>
+    <li style="margin-bottom:10px;">Nível avançado em Espanhol</li>
+    <li style="margin-bottom:10px;">Nível Intermediário em Italiano</li>
+    <li style="margin-bottom:10px;">Iniciante em Japonês</li>
+</ul>
+<h2 style="text-align:center;"> Experiências Extracurriculares: </h2>
+<ul style="list-style-type:none; text-align:center;">
+    <li style="margin-bottom:10px;">Curso de Recursos Humanos pela Udemy completo</li>
+</ul>
+<p style="text-align:center;"><a href="test.html" style="color:blue;">dev only</a></p>
+    </body>
+</html>
